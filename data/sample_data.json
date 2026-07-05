@@ -1,0 +1,16 @@
+{
+  "project_name": "ExpenseTracker",
+  "preset": "Expense Tracker",
+  "items": [
+    {
+      "id": 1,
+      "name": "Expense Tracker",
+      "status": "active"
+    },
+    {
+      "id": 2,
+      "name": "Sample Record",
+      "status": "draft"
+    }
+  ]
+}
